@@ -1,0 +1,18 @@
+.parent{
+    background-color: greenyellow;
+    width: 60%;
+    height: 500px;
+    margin: auto;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+.child{
+    width: 10%;
+    height: 10%;
+    background: #000;
+}
+.child3{
+    align-self: flex-start;
+}
